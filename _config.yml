@@ -11,7 +11,7 @@ email: freeda.ma@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   懂零一世界 喜二三乐器 少五六知己 有七八朋友 定九个目标 固十分辛苦
 baseurl: "/g8gg.github.io" # the subpath of your site, e.g. /blog
-url: "http://g8gg.github.io" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 twitter_username: gosber 
 github_username: g8gg 
 
